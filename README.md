@@ -14,7 +14,7 @@ The Nashville housing data, while publicly available, may contain inconsistencie
 
 **Null Value Population:** Populate null values with values that are almost accurate or reasonable approximations based on surrounding data.
 
-**Address Separation:** Split the addresses into various columns such as street number, street name, city, state, and ZIP code to enable easier analysis and filtering.
+**Address Separation:** Split the addresses into various columns such as city and state to enable easier analysis and filtering.
 
 **Duplicate Removal:** Remove duplicate entries from the dataset to ensure accuracy and avoid duplication of information.
 
