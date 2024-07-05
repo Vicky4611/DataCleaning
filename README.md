@@ -7,6 +7,9 @@ This project focuses on cleaning the publicly available Nashville housing data u
 
 The Nashville housing data, while publicly available, may contain inconsistencies, missing values, and duplicates. This project aims to prepare the data for analysis by applying SQL queries to clean and organize it effectively.
 
+![image](https://github.com/Vicky4611/DataCleaning/assets/162883496/b5e4bd31-2a10-44f8-b37e-152e61065171)
+
+
 
 **Cleaning Steps**
 
